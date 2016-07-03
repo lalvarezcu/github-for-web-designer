@@ -6,5 +6,5 @@ Hi! Welcome to the companion reference to my lynda.com Github for Web Designers 
 =======
 #GitHub for Web Designers
 
-Welcome to Lynda.com GtiHub course.
+[Go to my page](https://lalvarezcu.github.io/github-for-web-designer/)
 >>>>>>> origin/master
